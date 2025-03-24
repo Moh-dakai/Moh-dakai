@@ -26,8 +26,6 @@ Currently building projects with Flutter, Python, and C++.
 
 > contact --reach-me  
 
-Or if you want a **badge-style link**:  
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moh_dakie/)
 [![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@moh_dakie)
 
