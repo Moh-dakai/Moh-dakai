@@ -1,4 +1,5 @@
-![Banner](https://github.com/Moh-dakai/Moh-dakai/blob/main/github_pic.png)
+
+![github_pic](https://github.com/user-attachments/assets/7d2d54e2-13b2-492d-b238-f4b925b72226)
 
 > whoami  
 I’m Muhammad—Software Engineer passionate about Cybersecurity, AI, and Trading Bots.  
