@@ -5,7 +5,8 @@
 I’m Muhammad—Software Engineer passionate about Cybersecurity, AI, and Trading Bots.  
 Currently building projects with Flutter, Python, and C++.  
 
-> skills --list  
+> skills --list
+> 
 - 🔹 Flutter (Dart)  
 - 🔹 Python (AI, ML, Automation)  
 - 🔹 C++ (Algorithms, System Programming)  
