@@ -17,10 +17,4 @@ Currently building projects with Flutter, Python, and C++.
 🔹 [Shopping App](#) - A minimalist shopping and meal planning app.  
 🔹 [Trading Bot](#) - A Reinforcement Learning-based bot for indices trading.  
 
-> stats --display  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moh-dakai&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-dakai&layout=compact&theme=tokyonight&hide_border=true)  
-
-> contact --reach-me  
-📧 [Email](mailto:your@email.com) | 🔗 [Portfolio](#) | 🐦 [Twitter](#)  
 
