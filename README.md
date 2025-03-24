@@ -21,5 +21,13 @@ Currently building projects with Flutter, Python, and C++.
 🔹 [Trading Bot](#) - A Reinforcement Learning-based bot for indices trading.  
 
 
-
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moh-dakai&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-dakai&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+
+> contact --reach-me  
+
+Or if you want a **badge-style link**:  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moh_dakie/)
+[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@moh_dakie)
+
