@@ -35,10 +35,10 @@
 <p align="left">
 I'm <strong>Moh-dakai</strong>, a Computer Science student and backend-focused full-stack developer.<br><br>
 
-- 🔭 I’m currently building real-world full-stack applications  
-- 📚 I’m learning DevOps, system design & scalable backend architecture  
+- 🔭 I’m building real-world full-stack applications  
+- 📚 I’m currently learning DevOps, system design & scalable backend architecture  
 - 🧠 I focus on clean logic, simple solutions, and practical engineering  
-- ⚡ In my free time, I build projects, explore new tools, and refine my skills  
+- ⚡ In my free time, I build projects and sharpen my skills  
 </p>
 
 ###
@@ -48,26 +48,73 @@ I'm <strong>Moh-dakai</strong>, a Computer Science student and backend-focused f
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" />
 </div>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🚀 Projects</h3>
+
+###
+
+<p align="left">
+<strong>Naira Flow</strong><br>
+A full-featured expense tracker with authentication, analytics, and a MySQL backend.<br>
+• User login & registration<br>
+• Income & expense tracking<br>
+• Chart-based analytics<br>
+• Secure database storage<br>
+<b>Tech:</b> Python · Streamlit · MySQL
+</p>
+
+<p align="left">
+<strong>PrivacyGuard</strong><br>
+A privacy-focused web application with secure authentication and permission controls.<br>
+• JWT-based authentication<br>
+• User permission toggles<br>
+• Email verification flow<br>
+• REST API backend<br>
+<b>Tech:</b> Flask · JavaScript · MySQL
+</p>
+
+<p align="left">
+<strong>Hackathon Projects</strong><br>
+Rapid prototypes built under tight deadlines using modern tools and APIs.
+</p>
+
+###
+
+<h3 align="left">🔥 GitHub Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moh-dakai&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-dakai&layout=compact&theme=tokyonight&hide_border=false" height="150" />
+</div>
+
+###
+
+<h3 align="left">🔥 Contribution Streak</h3>
 
 ###
 
