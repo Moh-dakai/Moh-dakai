@@ -1,31 +1,78 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-![github_pic](https://github.com/user-attachments/assets/7d2d54e2-13b2-492d-b238-f4b925b72226)
+###
 
-> whoami  
-I’m Muhammad—Software Engineer passionate about Cybersecurity, AI, and Trading Bots.  
-Currently building projects with Flutter, Python, and C++.  
+<div align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.youtube.com">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
 
-> skills --list
-> 
-- 🔹 Flutter (Dart)  
-- 🔹 Python (AI, ML, Automation)  
-- 🔹 C++ (Algorithms, System Programming)  
-- 🔹 Web Design (HTML, CSS, JS)  
-- 🔹 Cloud Computing & DevOps  
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38C172&center=true&vCenter=true&width=600&lines=Tech+Stack%3A;Flutter+%7C+Dart;Python+%7C+C%2B%2B+%7C+JavaScript;Firebase+%7C+GitHub+%7C+Linux" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p>
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Moh-dakai.Moh-dakai" />
+</div>
 
-> projects --showcase  
-🔹 [Spine](#) - A posture improvement and core strengthening app.  
-🔹 [Shopping App](#) - A minimalist shopping and meal planning app.  
-🔹 [Trading Bot](#) - A Reinforcement Learning-based bot for indices trading.  
+###
 
+<h1 align="center">hey there 👋</h1>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moh-dakai&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-dakai&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+###
 
+<h3 align="left">👨‍💻 About Me</h3>
 
-> contact --reach-me  
+###
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moh_dakie/)
-[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@moh_dakie)
+<p align="left">
+I'm <strong>Moh-dakai</strong>, a Computer Science student and backend-focused full-stack developer.<br><br>
 
+- 🔭 I’m currently building real-world full-stack applications  
+- 📚 I’m learning DevOps, system design & scalable backend architecture  
+- 🧠 I focus on clean logic, simple solutions, and practical engineering  
+- ⚡ In my free time, I build projects, explore new tools, and refine my skills  
+</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Moh-dakai&theme=dark&hide_border=false&border_radius=5" height="220" />
+</div>
+
+###
