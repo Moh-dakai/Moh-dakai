@@ -8,10 +8,6 @@
   <a href="https://www.linkedin.com/in/muhammad-mudasir-63214a2a3">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://www.youtube.com">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
-  </a>
- 
 </div>
 
 ###
@@ -31,7 +27,7 @@
 ###
 
 <p align="left">
-I'm <strong>Moh-dakai</strong>, a Computer Science student and backend-focused full-stack developer.<br><br>
+I'm <strong>Muhammad </strong>, a Computer Science student and backend-focused full-stack developer.<br><br>
 
 - 🔭 I’m building real-world full-stack applications  
 - 📚 I’m currently learning DevOps, system design & scalable backend architecture  
@@ -95,15 +91,15 @@ A privacy-focused web application with secure authentication and permission cont
 
 ###
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moh-dakai&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
-</div>
+</p>
 
 ###
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh-dakai&layout=compact&theme=tokyonight&hide_border=false" height="150" />
-</div>
+</p>
 
 ###
 
