@@ -91,11 +91,6 @@ A privacy-focused web application with secure authentication and permission cont
 <b>Tech:</b> Flask · JavaScript · MySQL
 </p>
 
-<p align="left">
-<strong>Hackathon Projects</strong><br>
-Rapid prototypes built under tight deadlines using modern tools and APIs.
-</p>
-
 ###
 
 <h3 align="left">🔥 GitHub Stats</h3>
