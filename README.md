@@ -84,25 +84,7 @@ A privacy-focused web application with secure authentication and permission cont
 • REST API backend<br>
 <b>Tech:</b> Flask · JavaScript · MySQL
 </p>
-
 ###
-
-<h3 align="left">🔥 GitHub Stats</h3>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moh-dakai&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
-</p>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh-dakai&layout=compact&theme=tokyonight&hide_border=false" height="150" />
-</p>
-
-###
-
 <h3 align="left">🔥 Contribution Streak</h3>
 
 ###
