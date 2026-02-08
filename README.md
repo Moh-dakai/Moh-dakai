@@ -119,7 +119,7 @@ Rapid prototypes built under tight deadlines using modern tools and APIs.
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Moh-dakai&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <img src="https://streak-stats.demolab.com?user=Moh-dakai&theme=tokyonight&hide_border=false&border_radius=5" height="220" />
 </div>
 
 ###
