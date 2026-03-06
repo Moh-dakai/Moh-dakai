@@ -76,6 +76,12 @@ currently   :
 
 ## 🚀 Featured Projects
 
+
+
+<br/>
+
+## 📊 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/Moh-dakai/expense-tracker-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moh-dakai&repo=expense-tracker-app&theme=tokyonight&hide_border=true" alt="Expense Tracker App" />
@@ -90,7 +96,13 @@ currently   :
 
 <br/>
 
-## 📊 GitHub Stats
+### 📖 Project Highlights
+
+- **[💰 Expense Tracker App](https://github.com/Moh-dakai/expense-tracker-app)**: A modern, responsive React application designed to manage shared expenses seamlessly. It features group management, automatic balance calculation, and interactive spending charts to track finances with friends and family.
+- **[🛒 Multi-Tenant eCommerce Platform (MTECP)](https://github.com/Moh-dakai/MTECP)**: A robust platform built with Laravel and Vue.js featuring a multi-database tenancy architecture. It ensures strict data isolation for storefronts, comprehensive product/order management, and tenant-specific authentication.
+- **[📈 VOLI-MCP](https://github.com/Ash-Cyber-and-Computer-Organization/Voli-MCP)**: A specialized Model Context Protocol (MCP) server for Forex session volatility analysis. It leverages Twelve Data to forecast expected deviation, identify historical patterns, and provide intelligent trading guidance across different market sessions.
+Made by me and a crack dev @Contractor-X
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moh-dakai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
