@@ -12,10 +12,6 @@
   <a href="https://x.com/k_orede">
     <img src="https://img.shields.io/static/v1?message=X+(Twitter)&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="28" alt="X (Twitter)" />
   </a>
-  &nbsp;
-  <a href="mailto:">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Email" />
-  </a>
 </div>
 
 <br/>
@@ -80,34 +76,19 @@ currently   :
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>💸 Naira Flow</h3>
-      <p>A full-featured expense tracker with authentication, analytics, and a secure MySQL backend.</p>
-      <ul>
-        <li>User login &amp; registration</li>
-        <li>Income &amp; expense tracking</li>
-        <li>Chart-based analytics dashboard</li>
-        <li>Secure database storage</li>
-      </ul>
-      <p><strong>Stack:</strong> Python · Streamlit · MySQL</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🔒 PrivacyGuard</h3>
-      <p>A privacy-focused web application with secure authentication and granular permission controls.</p>
-      <ul>
-        <li>JWT-based authentication</li>
-        <li>User permission toggles</li>
-        <li>Email verification flow</li>
-        <li>REST API backend</li>
-      </ul>
-      <p><strong>Stack:</strong> Flask · JavaScript · MySQL</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Moh-dakai/expense-tracker-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moh-dakai&repo=expense-tracker-app&theme=tokyonight&hide_border=true" alt="Expense Tracker App" />
+  </a>
+  <a href="https://github.com/Moh-dakai/MTECP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moh-dakai&repo=MTECP&theme=tokyonight&hide_border=true" alt="MTECP" />
+  </a>
+  <a href="https://github.com/Ash-Cyber-and-Computer-Organization/Voli-MCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-Cyber-and-Computer-Organization&repo=Voli-MCP&theme=tokyonight&hide_border=true" alt="Voli MCP" />
+  </a>
+</div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
