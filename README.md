@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muhammad+👋;Backend-Focused+Full-Stack+Dev;CS+Student+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+muhammad+👋;Backend-Focused+Full-Stack+Dev;CS+Student+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-mudasir-63214a2a3">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
-  </a>
+
   &nbsp;
   <a href="https://x.com/k_orede">
     <img src="https://img.shields.io/static/v1?message=X+(Twitter)&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="28" alt="X (Twitter)" />
@@ -25,7 +23,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name        : Muhammad
+name        : muhammad
 role        : Backend-Focused Full-Stack Developer
 education   : Computer Science Student
 focus       : Clean logic · Scalable systems · Practical engineering
@@ -75,10 +73,11 @@ currently   :
 ---
 
 ## 🚀 Featured Projects
-
+- **[📈 Eventvoli-MCP](https://github.com/Moh-dakai/EventVol-Intelligence-EVOI-MCP-)**: EventVol Intelligence,analyzes how foreign exchange markets historically react to macroeconomic events. It combines intraday FX price data with economic calendar releases to estimate volatility behavior, breakout probability, and directional risk around scheduled news.- Intraday Precision — 1-minute candle analysis with 60-minute pre-event lookback + 240-minute post-event analysis window
+- Deterministic, Agent-Friendly Outputs — Structured JSON projections (probabilities, pips, regime, confidence score) designed for automated decision-making.  
 - **[💰 Expense Tracker App](https://github.com/Moh-dakai/expense-tracker-app)**: A modern, responsive React application designed to manage shared expenses seamlessly. It features group management, automatic balance calculation, and interactive spending charts to track finances with friends and family.
 - **[🛒 Multi-Tenant eCommerce Platform (MTECP)](https://github.com/Moh-dakai/MTECP)**: A robust platform built with Laravel and Vue.js featuring a multi-database tenancy architecture. It ensures strict data isolation for storefronts, comprehensive product/order management, and tenant-specific authentication.
-- **[📈 VOLI-MCP](https://github.com/Ash-Cyber-and-Computer-Organization/Voli-MCP)**: A specialized Model Context Protocol (MCP) server for Forex session volatility analysis. It leverages Twelve Data to forecast expected deviation, identify historical patterns, and provide intelligent trading guidance across different market sessions.
+- **[📈 VOLI-MCP](https://github.com/Contractor-x/Voli-MCP)**: A specialized Model Context Protocol (MCP) server for Forex session volatility analysis. It leverages Twelve Data to forecast expected deviation, identify historical patterns, and provide intelligent trading guidance across different market sessions.
 Made by me and a crack dev @Contractor-X
 <br/>
 
