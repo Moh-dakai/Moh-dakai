@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammad
+# Moh
 
 **Backend-focused full-stack developer · CS student · Builder**
 
