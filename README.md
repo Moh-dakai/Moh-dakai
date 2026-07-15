@@ -33,7 +33,7 @@ I build systems that are clean under the hood — APIs, multi-tenant platforms, 
 
 ## Featured projects
 
-### [EventVol Intelligence (EVOI) — MCP](https://github.com/Moh-dakai/EventVol-Intelligence-EVOI-MCP-)
+### [EventVol Intelligence (EVOI) — MCP](https://github.com/Moh-dakai/EventVol-Intelligence)
 Analyzes how FX markets historically react to macroeconomic events. 1-minute candle precision with a 60-minute pre-event lookback and 240-minute post-event analysis window. Outputs structured JSON projections — probabilities, pips, regime, confidence score — built for automated decision-making.
 
 `Forex` &nbsp; `MCP` &nbsp; `Data analysis` &nbsp; `Python`
