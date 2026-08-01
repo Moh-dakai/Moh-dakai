@@ -2,7 +2,7 @@
 
 # Muhammad
 
-**Backend-focused full-stack developer · CS student · Builder**
+**B Full-stack engineer**
 
 I build systems that are clean under the hood — APIs, multi-tenant platforms, and tools that actually do something useful. Currently deepening my knowledge in DevOps, system design, and AI-driven architectures.
 
